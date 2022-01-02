@@ -1,0 +1,14 @@
+com/theoldtree/shelter_eject/BuildConfig.java
+ com.theoldtree.shelter_eject.BuildConfig
+com/theoldtree/shelter_eject/ReactNativeFlipper.java
+ com.theoldtree.shelter_eject.ReactNativeFlipper
+ com.theoldtree.shelter_eject.ReactNativeFlipper$1
+ com.theoldtree.shelter_eject.ReactNativeFlipper$2
+ com.theoldtree.shelter_eject.ReactNativeFlipper$2$1
+com/theoldtree/shelter_eject/MainActivity.java
+ com.theoldtree.shelter_eject.MainActivity
+com/theoldtree/shelter_eject/MainApplication.java
+ com.theoldtree.shelter_eject.MainApplication
+ com.theoldtree.shelter_eject.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
